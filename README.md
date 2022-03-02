@@ -4,7 +4,7 @@ AI UNI 2022
 | Student IDs    | Student Names  |
 |________________|________________|
 | 64271          | Ashar khan     |
-|                |                |
+|64145           |qavi kamal                |
 |                |                |
 |                |                |
 |                |                |
@@ -17,3 +17,13 @@ because of interest and in future, is so many scope in our world.
 ###### Q2. Why do you think we study AI in BSCS?
 ### Ashar Khan
 Because AI is a concept of Intelligence like, machine brain , its worked/ act smartly for in which purposed machine designed. 
+
+###### Q1. Why are we here?
+### Qavi kamal
+Learn concepts of AI
+
+
+###### Q2. Why do you think we study AI in BSCS?
+### Ashar Khan
+AI is new world tech and world is moving towards automation , so make effective solutions we have use concepts of AI 
+
