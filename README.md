@@ -18,12 +18,13 @@ because of interest and in future, is so many scope in our world.
 ### Ashar Khan
 Because AI is a concept of Intelligence like, machine brain , its worked/ act smartly for in which purposed machine designed. 
 
-###### Q1. Why are we here?
+
 ### Qavi kamal
+###### Q1. Why are we here?
 Learn concepts of AI
 
 
 ###### Q2. Why do you think we study AI in BSCS?
-### Ashar Khan
+
 AI is new world tech and world is moving towards automation , so make effective solutions we have use concepts of AI 
 
