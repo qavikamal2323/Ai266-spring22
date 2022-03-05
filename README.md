@@ -35,3 +35,11 @@ To get basic knowledge about AI.
 
 ###### Q2. Why do you think we study AI in BSCS?
 We learn AI because it is a part of computer science. The world is growing so fast we have to learn new things as a computer science student and AI is the future. 
+### Mustafa Noorani
+###### Q1. Why are we here?
+To learn the basics of AI.
+
+
+###### Q2. Why do you think we study AI in BSCS?
+
+AI is the most important part in the computer world so we should learn the basics of AI.
