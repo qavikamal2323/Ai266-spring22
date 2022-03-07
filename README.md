@@ -4,8 +4,8 @@ AI UNI 2022
 | Student IDs    | Student Names  |
 |________________|________________|
 | 64271          | Ashar khan     |
-|64145           |qavi kamal                |
-|                |                |
+|64145           |qavi kamal      |
+|64254           |RIYAN SHAHID    |
 |                |                |
 |                |                |
 
@@ -43,3 +43,12 @@ To learn the basics of AI.
 ###### Q2. Why do you think we study AI in BSCS?
 
 AI is the most important part in the computer world so we should learn the basics of AI.
+
+
+
+### RIYAN SHAHID.
+###### Q1. Why are we here?
+We are here to learn the principles and introduction to artificial intelligence.
+
+###### Q2. Why do you think we study AI in BSCS?
+Because AI has become an important part of computer science and AI will provide human-like interactions with software .
