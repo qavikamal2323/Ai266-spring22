@@ -10,3 +10,5 @@ Group Members
 ### Ashar khan
 problem just face to save the result file
 solved to give complete path with double backslash
+###Qavi kamal 
+problem just face to save the result file solved to give complete path with double backslash
