@@ -15,3 +15,8 @@
         I train the model of Naive Bayes and getting accuaray i drop the column 27 and target using python libaray 
 ![image](https://user-images.githubusercontent.com/92552475/169075593-f29d7865-21c4-4dd2-a445-b5a730720b07.png)
 
+## RIYAN SHAHID (64254):
+        I train the model of Perception and getting accuaray i drop the column 27 and target using python libaray 
+![image](https://user-images.githubusercontent.com/65994423/169164110-e298f29d-03e3-4608-b1e5-fbb1c9fd4781.png)
+
+
