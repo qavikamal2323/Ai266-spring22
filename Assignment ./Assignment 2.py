@@ -18,5 +18,5 @@ id_data_frame.insert(1,"target",0);
 #Generated random number probability in each row id 
 id_data_frame['target'] = np.random.rand(700000,1)
 
-#Save this CSV file on Desktop 
+#Save this CSV file on Desktop
 id_data_frame.to_csv('C:\\Users\\Ashar khan\\Desktop\\out.csv',index=False);
