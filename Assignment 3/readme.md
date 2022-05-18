@@ -1,8 +1,10 @@
 # This is Assignment 3
 
 ## QAVI KAMAL (64145):
+           problem: it take much time to train the model but when i put 15 neighbours it give accurcay of 49%
+           but i increased it to 51% by increase neighbours 
         I train the model of KNN and getting accuaray i drop the column 27 and target using python libaray 
-        and improve quality by increasing neighbours  
+        and improve quality by increasing neighbours
 ![image](https://user-images.githubusercontent.com/99618952/169029567-86d7a188-ae67-4273-82e2-0471a2fda922.png)
 
 ## ASHAR KHAN (64271):
