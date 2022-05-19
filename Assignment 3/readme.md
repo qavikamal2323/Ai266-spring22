@@ -18,5 +18,8 @@
 ## RIYAN SHAHID (64254):
         I train the model of Perception and getting accuaray i drop the column 27 and target using python libaray 
 ![image](https://user-images.githubusercontent.com/65994423/169164110-e298f29d-03e3-4608-b1e5-fbb1c9fd4781.png)
+## MUHAMMAD MUSTAFA (64177):
+        I train the model of Lidstone and getting accuaray i drop the column 28 and target using python libaray 
+        
 
 
