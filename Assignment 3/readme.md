@@ -20,6 +20,7 @@
 ![image](https://user-images.githubusercontent.com/65994423/169164110-e298f29d-03e3-4608-b1e5-fbb1c9fd4781.png)
 ## MUHAMMAD MUSTAFA (64177):
         I train the model of Lidstone and getting accuaray i drop the column 28 and target using python libaray 
+ ![image](https://github.com/qavikamal2323/Ai266-spring22/blob/main/Assignment%203/lidstone-mustafa-64177.jpeg)
         
 
 
