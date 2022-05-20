@@ -1,6 +1,6 @@
 # Ai266-spring22
 AI UNI 2022
-| First Header  | Second Header |
+| Sid           |  Student Names |
 | ------------- | ------------- |
 | 64145           | Qavi kamal |
 | 64177        | Mustafa noorani  |
