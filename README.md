@@ -1,13 +1,14 @@
 # Ai266-spring22
 AI UNI 2022
+| First Header  | Second Header |
+| ------------- | ------------- |
+| 64145           | Qavi kamal |
+| 64177        | Mustafa noorani  |
+| 64271        | ashar khan |
+| 64254        | riyan shahid  |
+| 64286        | asad aslam  |
 ###### Ashar khan
-| Student IDs    | Student Names  |
-|________________|________________|
-| 64271          | Ashar khan     |
-|64145           |qavi kamal      |
-|64254           |RIYAN SHAHID    |
-|                |                |
-|                |                |
+
 
 ###### Q1. Why are we here?
 ### Ashar Khan
