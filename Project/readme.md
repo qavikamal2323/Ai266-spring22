@@ -8,4 +8,5 @@
 ## Muhammad Mustafa 
 ### Problem: Accuracy is 51% after increasing the neighbours 
 ### Sol: So i made a submission with improve accuracy og 54% what i going through is 30 neighbours with 60 40 split ratio.
+![image](https://github.com/qavikamal2323/Ai266-spring22/blob/0d6343b298fb69de93773990d4faf514372bc38c/Project/Mustafa-lidstone.JPG)
 
