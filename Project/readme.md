@@ -11,9 +11,11 @@
 
 
 ### Qavi kamal
-### Problem: Accuracy is 50% after increasing the neighbours 
+### Problem: Accuracy is 50% after increasing the neighbours , to learn the libraries and parameters of model 
 ### Sol: So i have taken the best varriance columns(features) fron f-19 to f-28 with 80 20 split ratio 
-### then i made a submission good accuracy of 68% with 25 neighbours
+### then i made a submission good accuracy of 68% with 25 neighbours. To learn the machine leaining stuff 
+### i used the google search and youtube to learn which model could be best for the given dataset So the best.
+### accuracy we have got in KNN by implementing above parameters and techniques
 ![image](https://user-images.githubusercontent.com/99618952/169701199-eaec436e-29db-4ca0-a29b-aa4cd0bb1574.png)
 ![image](https://user-images.githubusercontent.com/99618952/169701222-0214001c-1252-4d24-a17f-39743df8e34f.png)
 
