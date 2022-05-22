@@ -6,8 +6,8 @@
 | Qavi Kamal - 64145| KNN           | 0.6610055555555556      | 0.6886833333333333 |   0.68713 | 
 | Mustafa noorani - 64177  |Lidstion  |  0.5476253968253968      | 54.7937037037037| 0.54220 |
 | Ashar khan - 64271 | SVM |   0     | 0.5704666666666667 | 0 |
-| Riyan Shahid - 64254  | Perceptron  | 0.5292819444444444     | 52.77  |0.52569|
-| Asad Aslam- 64286  | Laplace | 0.62582222222222 |0.6260611111111111 | 0.62404 |
+| Riyan Shahid - 64254  | Perceptron  | 0.5429641975308642     | 57.39  |0.57250|
+| Asad Aslam- 64286  | Laplace | 0.6018847222222223 |0.6240411111111111 | 0.62404 |
 
 
 ### ---------------Qavi kamal---------------
@@ -28,3 +28,8 @@
 ### Problem: Accuracy is 58% with 29 features but then some unimportent features remove which increase my accuracy
 ### Sol: So i made a submission with improve accuracy of 62% what i am going through is 5 features with 80 20 split ratio.
 ![image](https://user-images.githubusercontent.com/92552475/169676212-be5563aa-2a22-465b-88e2-f59f1da7f3d5.png)
+
+## Riyan Shahid
+### Problem: Accuracy is 52% with 29 features but then some unimportent features remove which increase my accuracy
+### Sol: So i made a submission with improve accuracy of 57% what i am going through is 5 features with 80 20 split ratio.
+![image](https://user-images.githubusercontent.com/65994423/169720771-0f9e787c-ec7c-4254-b9c5-c7da93878fe8.png)
