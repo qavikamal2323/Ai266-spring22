@@ -1,5 +1,5 @@
 
-# This is ours Best submissions 
+# This is our Best submissions 
 # Table of CV accuracy 
 | Student Names      | Model |  CV - Score    |  Model Accurcay |  Kaggle Accuracy | 
 | -------------| ------------- |  -------------| ------------- |  ------------- |
