@@ -10,9 +10,9 @@
 | Asad Aslam- 64286  | Laplace | 0.6258222222222222 |0.6260611111111111 | 0.62404 |
 
 
-### Qavi kamal
-### Problem: Accuracy is 50% after increasing the neighbours , to learn the libraries and parameters of model 
-### Sol: So i have taken the best varriance columns(features) fron f-19 to f-28 with 80 20 split ratio 
+### ---------------Qavi kamal---------------
+### ----Problem----: Accuracy is 50% after increasing the neighbours , to learn the libraries and parameters of model 
+### ----Sol----: So i have taken the best varriance columns(features) fron f-19 to f-28 with 80 20 split ratio 
 ### then i made a submission good accuracy of 68% with 25 neighbours. To learn the machine leaining stuff 
 ### i used the google search and youtube to learn which model could be best for the given dataset So the best.
 ### accuracy we have got in KNN by implementing above parameters and techniques
