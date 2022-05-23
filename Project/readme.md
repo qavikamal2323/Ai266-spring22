@@ -5,7 +5,7 @@
 | -------------| ------------- |  -------------| ------------- |  ------------- |
 | Qavi Kamal - 64145| KNN           | 0.6610055555555556      | 0.6886833333333333 |   0.68713 | 
 | Mustafa noorani - 64177  |Lidstion  |  0.5476253968253968      | 54.7937037037037| 0.54220 |
-| Ashar khan - 64271 | SVM |   0     | 0.5704666666666667 | 0 |
+| Ashar khan - 64271 | SVM |   59.22430555555556    | 59.24791666666667 | 0.58956 |
 | Riyan Shahid - 64254  | Perceptron  | 0.5429641975308642     | 57.39  |0.57250|
 | Asad Aslam- 64286  | Laplace | 0.6018847222222223 |0.6240411111111111 | 0.62404 |
 
@@ -33,3 +33,7 @@
 ### Problem: Accuracy is 52% with 29 features but then some unimportent features remove which increase my accuracy
 ### Sol: So i made a submission with improve accuracy of 57% what i am going through is 5 features with 80 20 split ratio.
 ![image](https://user-images.githubusercontent.com/65994423/169720771-0f9e787c-ec7c-4254-b9c5-c7da93878fe8.png)
+
+## Ashar Khan
+### Problem: Accuracy is 56% with 29 features but then some unimportent features remove which increase my accuracy, In this svm model , I'm doing  one more experiment to increase the accuracy , using standard scalar function to change the data type and SVM function parameter (gamma = "scale") . But problem is that , my computer not train this model its take so many time , I'm try 15 hours but its not train because its huge number of rows , if i reduce the number of rows , then its trained and if I increase the number of rows then increase the model accuracy . experiment in "AsharKhan_64271_SVM_Model_project.ipynb" file 
+### Solution: So i made a submission with improve accuracy of 58% what i am going through, select  f_00 to f_02 and f_19 to f_26 features with 80 20 split ratio.
