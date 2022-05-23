@@ -37,3 +37,4 @@
 ## Ashar Khan
 ### Problem: Accuracy is 56% with 29 features but then some unimportent features remove which increase my accuracy, In this svm model , I'm doing  one more experiment to increase the accuracy , using standard scalar function to change the data type and SVM function parameter (gamma = "scale") . But problem is that , my computer not train this model its take so many time , I'm try 15 hours but its not train because its huge number of rows , if i reduce the number of rows , then its trained and if I increase the number of rows then increase the model accuracy . experiment in "AsharKhan_64271_SVM_Model_project.ipynb" file 
 ### Solution: So i made a submission with improve accuracy of 58% what i am going through, select  f_00 to f_02 and f_19 to f_26 features with 80 20 split ratio.
+![image](https://github.com/qavikamal2323/Ai266-spring22/blob/main/Project/SVM_KAGGLE_SCORE_Project.PNG?raw=true)
