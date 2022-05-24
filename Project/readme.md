@@ -12,11 +12,8 @@
 
 ### ---------------Qavi kamal---------------
 ### ----Problem----: Accuracy is 50% after increasing the neighbours , to learn the libraries and parameters of model 
-### ----Sol----: So i have taken the best varriance columns(features) fron f-19 to f-28 with 80 20 split ratio 
-### then i made a submission good accuracy of 68% with 25 neighbours. To learn the machine leaining stuff 
-### i used the google search and youtube to learn which model could be best for the given dataset So the best.
-### accuracy we have got in KNN by implementing above parameters and techniques And take the mean of 5 consective 
-### values of cross validation.But KNN does'nt give good result on large datasets . Most of the code optimize from https://scikit-learn.org/stable/modules/cross_validation.html
+### ----Sol----:
+### So i have taken the best varriance columns(features) fron f-19 to f-28 with 80 20 split ratio then i made a submission good accuracy of 68% with 25 neighbours. To learn the machine leaining stuff. i used the google search and youtube to learn which model could be best for the given dataset So the best.accuracy we have got in KNN by implementing above parameters and techniques And take the mean of 5 consective values. I didnt take the Extra tree classifier values because the features i got with the libaray doesnt effect the result that much and giving accuracy of 51% so i take the feature with varriance. Even after doing parameter tuning it with grid gives the same result but it take 18 hours to give result and result only increased 0.0111% so it is not suitable. so i submit my best score in best time and that was simple KNN with best feature  according to varriances values of cross validation.But KNN does'nt give good result on large datasets . Most of the code optimize from https://scikit-learn.org/stable/modules/cross_validation.html
 ![image](https://user-images.githubusercontent.com/99618952/169701199-eaec436e-29db-4ca0-a29b-aa4cd0bb1574.png)
 ![image](https://user-images.githubusercontent.com/99618952/169701222-0214001c-1252-4d24-a17f-39743df8e34f.png)
 
